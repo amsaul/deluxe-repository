@@ -62,15 +62,15 @@ const Contact = () => {
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <Mail className="h-6 w-6 text-primary" />
-                  <span>info@spatialscope.com</span>
+                  <span>info@deluxespatial.com</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <Phone className="h-6 w-6 text-primary" />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+254(106) 143 - 536</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <MapPin className="h-6 w-6 text-primary" />
-                  <span>123 Design Street, Creative City</span>
+                  <span>Kenyatta Avenue, Nairobi - Kenya</span>
                 </div>
               </div>
             </div>
