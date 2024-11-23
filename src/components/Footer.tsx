@@ -34,15 +34,15 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <span>info@spatialscope.com</span>
+                <span>info@deluxespatial.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <span>+1 (555) 123-4567</span>
+                <span>+254(106) 143 - 536</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span>123 Design Street, Creative City</span>
+                <span>Kenyatta Avenue,  Nairobi-Kenya</span>
               </li>
             </ul>
           </div>
