@@ -6,19 +6,19 @@ const teamMembers = [
     name: 'Mokaya Cris',
     role: 'Principal Architect',
     bio: 'With over 15 years of experience in spatial design, Mokaya leads our creative vision and strategic planning initiatives.',
-    image: '../images/mokaya.jpeg'
+    image: './images/mokaya.jpeg'
   },
   {
     name: 'Dancun Lusomo',
     role: 'Senior Consultant',
     bio: 'Dan\'s specializes in urban planning and sustainable design, bringing innovative solutions to complex spatial challenges.',
-    image: '../images/Dan.jpeg'
+    image: './images/Dan.jpeg'
   },
   {
     name: 'Bosire Saul',
     role: 'Design Director',
     bio: 'Saul\'s expertise in web Design and Development has earned him recognition in creating harmonious and functional pages.',
-    image: '../images/DevSaul.jpeg'
+    image: './images/DevSaul.jpeg'
   }
 ];
 
