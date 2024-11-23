@@ -3,22 +3,22 @@ import { Target, Lightbulb, Compass } from 'lucide-react';
 
 const teamMembers = [
   {
-    name: 'Sarah Johnson',
+    name: 'Mokaya Cris',
     role: 'Principal Architect',
-    bio: 'With over 15 years of experience in spatial design, Sarah leads our creative vision and strategic planning initiatives.',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80'
+    bio: 'With over 15 years of experience in spatial design, Mokaya leads our creative vision and strategic planning initiatives.',
+    image: '../images/mokaya.jpeg'
   },
   {
-    name: 'Michael Chen',
+    name: 'Dancun Lusomo',
     role: 'Senior Consultant',
-    bio: 'Michael specializes in urban planning and sustainable design, bringing innovative solutions to complex spatial challenges.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80'
+    bio: 'Dan\'s specializes in urban planning and sustainable design, bringing innovative solutions to complex spatial challenges.',
+    image: '../images/Dan.jpeg'
   },
   {
-    name: 'Emily Rodriguez',
+    name: 'Bosire Saul',
     role: 'Design Director',
-    bio: 'Emily\'s expertise in interior architecture has earned her recognition in creating harmonious and functional spaces.',
-    image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80'
+    bio: 'Saul\'s expertise in web Design and Development has earned him recognition in creating harmonious and functional pages.',
+    image: '../images/DevSaul.jpeg'
   }
 ];
 
