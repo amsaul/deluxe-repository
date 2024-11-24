@@ -18,7 +18,7 @@ const teamMembers = [
     name: 'Bosire Saul',
     role: 'Design Director',
     bio: 'Saul\'s expertise in web Design and Development has earned him recognition in creating harmonious and functional pages.',
-    image: 'https://res.cloudinary.com/dzq0v3cjh/image/upload/e_improve,e_sharpen/v1732439087/WhatsApp_Image_2024-11-24_at_10.41.12_apr3me.jpg'
+    image: 'https://res.cloudinary.com/dzq0v3cjh/image/upload/v1732439087/WhatsApp_Image_2024-11-24_at_10.41.12_apr3me.jpg'
   }
 ];
 
