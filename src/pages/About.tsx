@@ -5,20 +5,20 @@ const teamMembers = [
   {
     name: 'Mokaya Cris',
     role: 'Principal Architect',
-    bio: 'With over 15 years of experience in spatial design, Mokaya leads our creative vision and strategic planning initiatives.',
-    image: 'src/images/mokaya.jpeg'
+    bio: 'With over 5 years of experience in spatial design, Mokaya leads our creative vision and strategic planning initiatives.',
+    image: '/src/public/mokaya.jpeg'
   },
   {
     name: 'Dancun Lusomo',
     role: 'Senior Consultant',
     bio: 'Dan\'s specializes in urban planning and sustainable design, bringing innovative solutions to complex spatial challenges.',
-    image: 'src/images/Dan.jpeg'
+    image: '/src/public/Dan.jpeg'
   },
   {
     name: 'Bosire Saul',
     role: 'Design Director',
     bio: 'Saul\'s expertise in web Design and Development has earned him recognition in creating harmonious and functional pages.',
-    image: 'src/images/DevSaul.jpeg'
+    image: '/src/public/DevSaul.jpeg'
   }
 ];
 
@@ -35,7 +35,7 @@ const About = () => {
         >
           <h1 className="text-4xl font-bold mb-6">Our Story</h1>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Founded in 2010, SpatialScope has been at the forefront of innovative spatial design and consulting,
+            Founded in 2024, SpatialScope has been at the forefront of innovative spatial design and consulting,
             helping businesses and organizations optimize their spaces for maximum impact and efficiency.
           </p>
         </motion.div>
